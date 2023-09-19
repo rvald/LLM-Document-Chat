@@ -1,0 +1,4 @@
+llama_index==0.8.29.post1
+jupyterlab==3.6.3
+python-dotenv==1.0.0
+pypdf
